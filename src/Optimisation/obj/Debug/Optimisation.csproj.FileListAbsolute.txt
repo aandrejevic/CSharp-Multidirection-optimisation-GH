@@ -1,0 +1,6 @@
+/Users/Zooey/Projects/Optimisation/Optimisation/bin/Debug/Optimisation.dll
+/Users/Zooey/Projects/Optimisation/Optimisation/bin/Debug/Optimisation.dll.mdb
+/Users/Zooey/Projects/Optimisation/Optimisation/obj/Debug/Optimisation.csprojAssemblyReference.cache
+/Users/Zooey/Projects/Optimisation/Optimisation/obj/Debug/Optimisation.csproj.CoreCompileInputs.cache
+/Users/Zooey/Projects/Optimisation/Optimisation/obj/Debug/Optimisation.dll
+/Users/Zooey/Projects/Optimisation/Optimisation/obj/Debug/Optimisation.dll.mdb

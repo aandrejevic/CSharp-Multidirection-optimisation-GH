@@ -1,0 +1,6 @@
+C:\Users\OMRT\source\repos\Iterator\Iterator\bin\Iterator.dll
+C:\Users\OMRT\source\repos\Iterator\Iterator\bin\Iterator.pdb
+C:\Users\OMRT\source\repos\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\OMRT\source\repos\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\OMRT\source\repos\Iterator\Iterator\obj\Debug\Iterator.dll
+C:\Users\OMRT\source\repos\Iterator\Iterator\obj\Debug\Iterator.pdb
